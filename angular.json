@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AltynKuryk"
+    }
+  },
+  "defaultProject": "AltynKuryk",
+  "cli": {
+    "analytics": false
+  }
 }
